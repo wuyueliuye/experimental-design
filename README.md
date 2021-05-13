@@ -5,7 +5,7 @@ central composite in experimental design - response surface model
 
 ###### Aim of the study
 
-There're tradeoffs among TiN peeling, tungsten film uniformity and tungsten film stress, where uniformity and stress were founded to be controlled by both pressure and $H_2/WF_6$ ratio, while the happening of peeling were impacted by ratio. Here in this study, the response surface methodology with central composite design has been applied, intend to find optimal combinations of  pressure and ratio to minimize uniformity and stress, as well as avoid TiN peeling.
+There're tradeoffs among TiN peeling, tungsten film uniformity and tungsten film stress, where uniformity and stress were founded to be controlled by both pressure and $$H_2/WF_6$$ ratio, while the happening of peeling were impacted by ratio. Here in this study, the response surface methodology with central composite design has been applied, intend to find optimal combinations of  pressure and ratio to minimize uniformity and stress, as well as avoid TiN peeling.
 
 ###### Variables:
 
