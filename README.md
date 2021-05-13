@@ -56,4 +56,4 @@ The design of experiments follows central composite design, where there're 4 fac
 
 [RSM in R](https://statacumen.com/teach/RSM/notes/RSM_notes_F14.pdf)
 
-[RSM in R](
+[RSM in R](https://cran.r-project.org/web/packages/rsm/vignettes/rsm.pdf)
