@@ -25,11 +25,16 @@ There're tradeoffs among TiN peeling, tungsten film uniformity and tungsten film
 
 The design of experiments follows central composite design, where there're 4 factorial points, 4 star points as well as 3 center points, with $\alpha=\sqrt2$, therefore a rotatable design.
 
+![image](https://user-images.githubusercontent.com/47954276/119771405-4571a100-be83-11eb-9ae7-b3792bf171aa.png)
+
+
 #### Methodology
 
 ###### Quardic Response Surface Model
 
 -- Response surface model is to explore the relationship between several exploratory variables and on or more response variables. Where the main idea is to use a sequence of designed experiments to obtain an optimal response, therefore can be used to optimize a process. While the quardic response surface model is to include both first order of predictors and quardic polynomial terms of predictors into a regression model. 
+
+![image](https://user-images.githubusercontent.com/47954276/119771505-718d2200-be83-11eb-9d64-75b8a8579053.png)
 
 ###### Model Assumptions
 
